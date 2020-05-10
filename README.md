@@ -15,8 +15,8 @@
 
 The number of training cells should be decided based on the environment. If a dense traffic scenario then the fewer training cells should be used, as closely spaced targets can impact the noise estimate.
 ```
-T_r = 8
-T_d = 5
+T_r = 5
+T_d = 8
 ```
 - Guard cells:
 
